@@ -1,14 +1,14 @@
 ---
-layout: ../layouts/Cvlayout.astro
+layout: "../layouts/Cvlayout.astro"
 titre: Halima Ahmed
-image: ./images/haloum.jpg
-fonction: professeure de communication
+image: "./images/haloum.jpg"
+fonction: Assistante marketing
 Adresse: Balbala/ Djibouti
 email: halimaqidi99@gmail.com
-Telephone: (+25377235175)
----
+Telephone: "(+25377235175)"
 
-#Skills !
+---
+\#Skills 
 
 Adobe Photoshop
 90%
