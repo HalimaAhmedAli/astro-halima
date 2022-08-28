@@ -8,7 +8,7 @@ email: halimaqidi99@gmail.com
 Telephone: "(+25377235175)"
 skills:
 - pourcentage: 30
-  nom: Photography
+  nom: Illustrator
 - nom: Photography
   pourcentage: 20
 - nom: Adobe Photoshop
