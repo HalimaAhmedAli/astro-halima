@@ -6,6 +6,9 @@ fonction: Assistante en marketing
 Adresse: Balbala/ Djibouti
 email: halimaqidi99@gmail.com
 Telephone: "(+25377235175)"
+skills:
+- nom: Adobe Photoshop
+  pourcentage: 90
 
 ---
-\#  hello ! 
+  hello !
