@@ -5,7 +5,27 @@ image: ./images/haloum.jpg
 fonction: professeure de communication
 Adresse: Balbala/ Djibouti
 email: halimaqidi99@gmail.com
-Telephone: +253 77235175
+Telephone: (+25377235175)
 ---
 
-# hello !
+#Skills !
+
+Adobe Photoshop
+90%
+
+Photography
+80%
+
+Illustrator
+75%
+
+Media
+50%
+
+Languages
+
+English
+
+Spanish
+
+German
